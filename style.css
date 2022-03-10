@@ -1,0 +1,11 @@
+body, html{
+    height:100%;
+    overflow: hidden;
+}
+body {
+    background-color: rgb(44, 78, 107);
+    color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
